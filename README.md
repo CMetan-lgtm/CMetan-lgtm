@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="./assets/cyber-header.svg" width="100%" alt="Cyber profile header" />
+<img src="./assets/cyber-header.svg" width="100%" alt="Profile header" />
 
-# Привет, я CMetan-lgtm 👋
+# Hi, I'm CMetan-lgtm 👋
 
 ### React Native Developer · TypeScript · Mobile Products
 
-Создаю быстрые, доступные и аккуратные мобильные приложения для iOS и Android.
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00F5D4?style=for-the-badge&logo=safari&logoColor=07111F)](https://YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/EMAIL-FF4ECD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+I build fast, accessible, and clean mobile apps for iOS and Android.
 
 </div>
 
@@ -20,9 +16,9 @@
 
 ```ts
 const developer = {
-  name: "YOUR_NAME",
+  handle: "CMetan-lgtm",
   role: "React Native Developer",
-  location: "YOUR_LOCATION",
+  location: "Helsinki, Finland",
   focus: ["Mobile UX", "Performance", "Clean Architecture"],
   currentlyLearning: ["Native Modules", "Mobile CI/CD"],
   openTo: ["Mobile projects", "Open source", "Collaboration"]
@@ -46,33 +42,6 @@ const developer = {
 
 </div>
 
-## `> featured_projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 PROJECT_ONE
-Кратко опиши проблему, которую решает приложение, и свой вклад.
-
-**Stack:** React Native · TypeScript · Expo
-
-[Repository](https://github.com/CMetan-lgtm/PROJECT_ONE) · [Demo](https://YOUR_DEMO_URL)
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ PROJECT_TWO
-Кратко опиши ключевую функцию, архитектуру и достигнутый результат.
-
-**Stack:** React Native · Firebase · Zustand
-
-[Repository](https://github.com/CMetan-lgtm/PROJECT_TWO) · [Demo](https://YOUR_DEMO_URL)
-
-</td>
-</tr>
-</table>
-
 ## `> github_stats`
 
 <div align="center">
@@ -86,19 +55,11 @@ const developer = {
 
 ## `> current_focus`
 
-- 📲 Разработка кроссплатформенных приложений на React Native
-- ⚡ Оптимизация производительности и времени запуска
-- 🧩 Масштабируемая архитектура и переиспользуемые компоненты
-- ♿ Доступные и понятные мобильные интерфейсы
-- 🚀 Автоматизация сборок, тестирования и публикации
-
-## `> contact`
-
-```text
-Portfolio : https://YOUR_PORTFOLIO_URL
-LinkedIn : https://YOUR_LINKEDIN_URL
-Email    : YOUR_EMAIL
-```
+- 📲 Cross-platform app development with React Native
+- ⚡ Performance optimization and faster startup times
+- 🧩 Scalable architecture and reusable components
+- ♿ Accessible, intuitive mobile interfaces
+- 🚀 Automating builds, testing, and releases
 
 <div align="center">
 
